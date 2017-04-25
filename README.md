@@ -1,7 +1,7 @@
 
 # rev
 A decentralized code review tool for all
-Code on Bitbucket: https://bitbucket.org/vaemoi/rev
+Code on Bitbucket: https://bitbucket.org/vaemoi/wver
 
 ---
 
