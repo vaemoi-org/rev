@@ -6,4 +6,4 @@ Follow Development on Gitlab: https://gitlab.com/vaemoi/wver
 
 ---
 
-site: https://wver.vaemoi.co
+site: https://wver.vaemoi.xyz
